@@ -1,0 +1,6 @@
+name: ChampsProteges
+version: 1.0.0
+main: fr.bastiengaffet.champs.ChampsProteges
+api-version: "1.16"
+author: CreeperGPT
+description: Empeche le pietinement des terres labourees (joueurs et mobs). Rien d autre.
